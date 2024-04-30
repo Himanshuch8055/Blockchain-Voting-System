@@ -64,11 +64,12 @@ function App() {
       style={{
         width: 1000,
         marginTop: 25,
-        backgroundColor: "rgb(135,62,35)",
+        backgroundColor: "rgba(111, 42, 201, 0.616)",
+        borderRadius: 10,
       }}
     >
       <p className="text-center h5 text-warning p-2">
-        Blockchain for Electronic Voting System
+        Blockchain Voting System
       </p>
       <div className="d-flex justify-content-between">
         <button
